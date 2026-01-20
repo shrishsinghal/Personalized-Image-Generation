@@ -1,0 +1,13 @@
+# Frontend Dependencies for Gradio Interface
+
+# UI Framework
+gradio>=4.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
